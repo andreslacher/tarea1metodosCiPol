@@ -1,1 +1,2 @@
 # tarea1metodosCiPol
+git 
