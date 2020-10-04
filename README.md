@@ -1,2 +1,2 @@
 # tarea1metodosCiPol
-git 
+texto 
